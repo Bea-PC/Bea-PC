@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Beatriz, but you can call me Bea.
-- 👀 I’m interested in Python and react 
-- 🌱 I’m currently learning Algoriithms 
-- 🌱 Computer Science Student at University of the people
+- 🐍 Hi, I’m Beatriz, but you can call me Bea.
+- 💡 I’m currently learning Programming logic ( Algoriithms) 
+- 💻 I’m also interested in Python and React 
+- 🎓 Computer Science Student at University of the people
 
 
 
