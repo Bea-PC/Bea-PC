@@ -2,6 +2,9 @@
 - 💡 I’m currently learning Programming logic ( algorithms and data structure) 
 - 💻 Also a participant of the technology education program by Nubank institute
 - 🎓 Computer Science Student at University of the people
+- 📁 My old account <a href="https://github.com/Bea-Candido">Here</a>
+- 😜 A curious fact, PC is an abbreviation of my two surnames.
+
 
 
 
